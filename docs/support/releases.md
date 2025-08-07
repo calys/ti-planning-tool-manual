@@ -1,6 +1,6 @@
 # Release Notes
 
-## TIP 4.0
+## TIP V4.0
 
 ### Release Date: 05.06.2025
 
