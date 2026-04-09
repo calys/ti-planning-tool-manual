@@ -23,6 +23,7 @@
     * [Data](/docs/platform_introduction/data.md)
     * [Billing Center](/docs/platform_introduction/billing_center.md)
   * [Creating a New Plan](/docs/plan/create_new_plan.md)  
+  * [Local Anonymization (Data Privacy)](/docs/services/data_privacy.md)
   * [Step 0: Preparing Your Data](/docs/services/file_picker.md)
   * [Step 1: Images Processing](/docs/services/personalizer.md)
   * [Step 2: Electrode Placement](/docs/services/electrode_placement.md)
